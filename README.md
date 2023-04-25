@@ -16,7 +16,7 @@ I will add another variant of this script to do no closing of processes, and jus
 
 I could add email notification or an SMS API notification to it as well. 
 
-Nevertheless, with zero-days being prevalent lately, it's a good idea to update Chrome as soon as possible, but it's a good practice not to open HTML files and the like from weird emails, and try to stick to vanilla internet surfing unless using some form of up to date sandbox. 
+Nevertheless, with zero-days being prevalent lately, it's a good idea to update Chrome as soon as possible, but it's a good practice not to open HTML files and the like from weird emails, and try to stick to great reputation internet surfing unless using some form of up to date sandbox.  Although this may not be possible because event small to medium sized businesses may use Wordpress or Joomla and have vulnerabilities that are exploited by threat actors, who either upload malicious payloads or redirect to credential harvesting sites. TOADs exist too. 
 
 Perhaps other controls such as web filtering proxies and Microsoft's exploit guards will help prevent exploitation of Chrome success of zero-days, but it's good to have depth. 
 
