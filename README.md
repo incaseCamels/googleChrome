@@ -1,6 +1,6 @@
 # googleChromeUpdateChecker
 
-The reason for this is because you may have set Chrome to automatically update, but it requires a relaunch and you haven't seen the icon. 
+The reason for this is because you may have set Chrome to automatically update, but it requires a relaunch and you haven't seen the icon. A balloon may be more in your face. 
 
 Perhaps it hasn't called out for a new update check yet and your scheduled job will beat it. 
 
