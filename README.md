@@ -14,6 +14,8 @@ It's not recommended to auto-close Chrome if your Chrome tab is opened for somet
 
 I will add another variant of this script to do no closing of processes, and just balloons, so that you can have a more in your face approach without an auto relaunch. 
 
+I will look at adding a confirmation balloon on whether you want to relaunch Chrome, a count down version, so it doesn't interrupt any unsavable forms you had been filling out. 
+
 I could add email notification or an SMS API notification to it as well. 
 
 Nevertheless, with zero-days being prevalent lately, it's a good idea to update Chrome as soon as possible, but it's a good practice not to open HTML files and the like from weird emails, and try to stick to great reputation internet surfing unless using some form of up to date sandbox.  Although this may not be possible because even small to medium sized businesses may use Wordpress or Joomla and have vulnerabilities that are exploited by threat actors, who either upload malicious payloads or redirect to credential harvesting sites. TOADs and pretexting exist too, so be aware on all fronts.  Web-servers of your favourite businesses can become compromised, so it's good to keep the browser up to date and always verify rather than at first trusting. 
