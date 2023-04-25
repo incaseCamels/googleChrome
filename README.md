@@ -1,6 +1,6 @@
 # googleChromeUpdateChecker
 
-Ultimately, this isn't recommended to implement necessarily, but as a proof of concept towards a more customisable update experience. 
+Ultimately, this isn't recommended to implement necessarily, but it's rather to be explored as a proof of concept towards a more customisable update experience. 
 
 The reason or use-case for this is because you may have set Chrome to automatically update, but it requires a relaunch and you haven't seen the icon in the Chrome browser. A balloon may be more in your face. 
 
