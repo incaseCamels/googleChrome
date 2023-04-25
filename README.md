@@ -2,7 +2,7 @@
 
 Ultimately, this isn't recommended to implement necessarily, but as a proof of concept towards a more customisable update experience. 
 
-The reason or use-case for this is because you may have set Chrome to automatically update, but it requires a relaunch and you haven't seen the icon. A balloon may be more in your face. 
+The reason or use-case for this is because you may have set Chrome to automatically update, but it requires a relaunch and you haven't seen the icon in the Chrome browser. A balloon may be more in your face. 
 
 Also, perchance Chrome hasn't called out for a new update check yet, your scheduled job could beat it. 
 
