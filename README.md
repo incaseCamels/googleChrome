@@ -20,4 +20,4 @@ Nevertheless, with zero-days being prevalent lately, it's a good idea to update 
 
 Perhaps other controls such as web filtering proxies and Microsoft's exploit guards will help prevent exploitation of Chrome success of zero-days, but it's good to have depth. 
 
-Using this as a scheduled job, shouldn't be ran every minute. I'd suggest evert few hours or so. 
+Using this as a scheduled job, shouldn't be ran every minute. I'd suggest every few hours or so. 
