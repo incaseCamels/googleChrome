@@ -14,7 +14,7 @@ It's not recommended to auto-close Chrome if your Chrome tab is opened for somet
 
 I will add another variant of this script to do no closing of processes, and just balloons, so that you can have a more in your face approach without an auto relaunch. 
 
-I will look at adding a confirmation balloon on whether you want to relaunch Chrome, and a count down version, so it doesn't interrupt any unsavable forms you had been filling out. 
+I will look at adding a confirmation TOAST notification on whether you want to relaunch Chrome, and a 5 minute count down version, so it doesn't interrupt any unsavable forms you had been filling out. 
 
 I will look at making that more configurable by selecting which mode you want to run it in with parameters. 
 
