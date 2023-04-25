@@ -2,6 +2,8 @@
 
 The reason or use-case for this is because you may have set Chrome to automatically update, but it requires a relaunch and you haven't seen the icon. A balloon may be more in your face. 
 
+Ultimately, this isn't recommended to implement necessarily, but as a proof of concept towards a more customisable update experience. 
+
 Also, perchance Chrome hasn't called out for a new update check yet, your scheduled job could beat it. 
 
 The API call here is cheap for Google, and cheap for you. 
