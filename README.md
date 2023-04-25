@@ -6,6 +6,6 @@ Also, perchance Chrome hasn't called out for a new update check yet, your schedu
 
 The API call here is cheap for Google, and cheap for you. 
 
-It will relaunch Chrome for you, if you have only the one Chrome browser open, it's very likely it will tell you Chrome closed weirdly and unexpectedly and it will allow you to restore your tabs. 
+This script will relaunch Chrome for you if you've got the latest downloaded but the old version still remains (you've unlikely relaunched), and if you have only the one Chrome browser open, it's very likely it will tell you Chrome closed weirdly and unexpectedly and it will allow you to restore your tabs. 
 
 It's not sophisticated but it's a start. 
