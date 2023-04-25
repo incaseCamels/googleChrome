@@ -18,4 +18,4 @@ I could add email notification or an SMS API notification to it as well.
 
 Nevertheless, with zero-days being prevalent lately, it's a good idea to update Chrome as soon as possible, but never open HTML files and the like from weird emails, and try to stick to vanilla internet surfing unless using a sandbox. 
 
-Perhaps other controls such as web filtering proxies and Microsoft's exploit guards will help prevent exploitatin of Chrome success of zero-days, but it's good to have depth. 
+Perhaps other controls such as web filtering proxies and Microsoft's exploit guards will help prevent exploitation of Chrome success of zero-days, but it's good to have depth. 
