@@ -11,3 +11,8 @@ This script will relaunch Chrome for you if you've got the latest downloaded but
 It's not sophisticated but it's a start.  
 
 It's not recommended to auto-close Chrome if your Chrome tab is opened for something sensitive that you need it to remain running. 
+
+I will add another variant of this script to do no closing of processes, and just balloons, so that you can have a more in your face approach. 
+I could add email or an SMS API to it as well. With zero-days being prevalent lately, it's a good idea to update Chrome as soon as possible, but never open HTML files and the like from weird emails, and try to stick to vanilla internet surfing unless using a sandbox. 
+
+Perhaps other controls such as web filtering proxies and Microsoft's exploit guards will help prevent Chrome exploitation success of zero-days, but it's good to have depth. 
